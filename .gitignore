@@ -1,0 +1,11 @@
+# Gradle / Android 빌드 산출물
+.gradle/
+build/
+local.properties
+*.apk
+.idea/
+*.iml
+
+# Claude/OMC 로컬 상태
+.omc/
+.vercel
