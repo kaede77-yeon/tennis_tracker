@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.TennisMatchTracker" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/court_dark</item>
+        <item name="colorPrimaryDark">@color/court_dark</item>
+        <item name="colorAccent">@color/court_accent</item>
+        <item name="android:statusBarColor">@color/court_dark</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowBackground">@color/bg_app</item>
+    </style>
+</resources>

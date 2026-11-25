@@ -1,0 +1,6 @@
+<resources>
+    <color name="court_dark">#0F3D2E</color>
+    <color name="court_primary">#14532D</color>
+    <color name="court_accent">#A3E635</color>
+    <color name="bg_app">#F3F6F4</color>
+</resources>
